@@ -1,0 +1,439 @@
+2025-HD-BC (1):
+      Chaining Selectors: Remove stale instructions (#709)
+
+Akash Shaw (1):
+      02-margin-and-padding-2: Updated solution.css and desired-outcome.png to solve Isuue#545
+
+Alex Kaminetzky (1):
+      Capitalize a letter at the beginning of a title
+
+Amanda (7):
+      Update cascade-fix/README.md
+      Update index.html
+      Update solution.css
+      Delete desired-outcome.png
+      Update desired-outcome
+      Update solution.css
+      Update solution.html
+
+Amanda Brunelli (3):
+      Add alt text
+      Update for accessibility
+      Add new img
+
+Andrew Dutson (1):
+      removed duplicate element selector & added semicolon
+
+André Carvalhais (1):
+      README: Update recommended VS Code dev server extension (#745)
+
+AngryGolfer (1):
+      Typo and line wrap
+
+Arjun (4):
+      🔲 Fix inconsistency in solution
+      Revert "🔲 Fix inconsistency in solution"
+      🔲 Fix inconsistency in solution with correct formatting
+      Move Border box to the non solution part
+
+Asartea (2):
+      Tweak note wording to make it clearer that desired-outcome.png isn't leading
+      repoint contributing links to .github/CONTRIBUTING.md
+
+Austin (6):
+      Merge pull request #77 from ShepleySound/iss55
+      Merge pull request #101 from SnakeGandhi/main
+      Merge pull request #320 from finnala/fix-foundations-exercise-06
+      Merge pull request #327 from syjem/fix_image_name_grid_exercise3
+      Merge pull request #344 from ssff1293/update_link_in_README.md
+      Merge pull request #678 from dahans1/fix-foundations-doc
+
+Austin Sullivan (2):
+      Merge pull request #431 from just-ctrlC-ctrlV/main
+      Merge pull request #552 from akash-shaw/update
+
+Badiuzzaman (2):
+      div replaced with button element
+      cursor and border added to button
+
+Benjamin Honorio (1):
+      Fix typo in self check
+
+Bharath C Hegde (4):
+      This Commit fixes #170 opened issue
+      I Have Updated the Font based on the desired outcome image and this Fixes #259 opened issue
+      Updated the outcome image as per request
+      Readme.md file kept as per previous
+
+BiscuitCandy (2):
+      Delete desired-outcome.png
+      replaced desired-outcome.png
+
+Brian Lister (5):
+      doc: add paragraph making more clear git workflow in this repo
+      nit: add line in hot to back
+      fix: update desired-outcome for foundations-02
+      fix: update changes per discussion
+      fix: remove superfluous line of code in solution (#528)
+
+Briggs Elsperger (2):
+      Merge pull request #14 from MonkeyBlues/main
+      Merge pull request #13 from aldomanpi/patch-2
+
+Christina M (5):
+      update foundations/05-decendent-combinator
+      01-grid: solution, style, desired-outcome
+      add ;
+      02-grid: solution, style, desired-outcome
+      grid-03: style, solution, desired-outcome
+
+Christina Moore (1):
+      colors for 01-grid-layout
+
+Ckyever Gaviola (1):
+      intro-to-css: Add placeholder comment to empty style.css files (#723)
+
+Cody Loyd (66):
+      add first two exercises
+      add readme
+      rename directory
+      add 'self check'
+      add self-check
+      change folder structure
+      add first flex exercise
+      move styles to own file
+      add header exercise
+      fix readme
+      add header-2
+      update readme
+      update readme
+      add layout
+      add info solution
+      add solutions
+      move solutions around
+      add holy-grail
+      Update README.md
+      rename directories
+      Merge branch 'main' of github.com:TheOdinProject/css-exercises
+      Update README.md
+      Merge pull request #1 from thatblindgeye/css-foundations
+      Update README.md
+      Merge pull request #5 from Utkarsh736/utkarsh736
+      Merge pull request #4 from benjaminhonorio/patch-1
+      Merge pull request #3 from MfnBacon/patch-1
+      Merge pull request #2 from Ishmam156/fix/css-foundations
+      Merge pull request #43 from msespos/fix-punctuation-and-grammar-flex-READMEs
+      Merge pull request #42 from msespos/fix-punctuation-and-grammar-margin-and-padding-READMEs
+      Merge pull request #41 from msespos/fix-punctuation-and-grammar-foundations-READMEs
+      Merge pull request #39 from msespos/fix-punctuation-and-grammar-css-exercises-README
+      remove checklist
+      Merge pull request #44 from TheOdinProject/codyloyd-patch-1
+      Merge pull request #37 from Skmyhrm/patch-2
+      Merge pull request #33 from WoahJo/fix/filename-fix
+      update container class to avoid confusion
+      Merge pull request #45 from TheOdinProject/update-container-class
+      Update README.md
+      Update README.md
+      Merge pull request #49 from TheOdinProject/codyloyd-patch-2
+      Merge pull request #54 from SahilChoursiaya/patch-1
+      Merge pull request #50 from thatblindgeye/css-foundations
+      Merge pull request #59 from programmurr/feature/programmurr-animation-exercises
+      Merge pull request #94 from dm-murphy/feature/grid
+      Merge pull request #98 from akaminetzkyp/fix-capitalize-flex
+      Merge pull request #99 from seidbar/main
+      Merge pull request #100 from rog2054/main
+      simplify solution
+      update animation1
+      replace dropdwon with popup
+      Merge pull request #105 from dm-murphy/fix/grid-exercise-1
+      Merge pull request #106 from dm-murphy/feature/grid-exercise-2
+      Merge pull request #107 from dm-murphy/feature/grid-exercise-3
+      Update README.md
+      Merge pull request #174 from TheOdinProject/codyloyd-patch-3
+      Merge pull request #304 from DutsAndrew/main
+      Merge pull request #306 from zhna123/keyframe_exercise
+      Merge pull request #311 from bzaman/#310-button-element-enhancement
+      Merge pull request #321 from acb123web/main
+      Merge pull request #322 from linglejack06/main
+      Merge pull request #326 from christinamakes/text_visibility_updates
+      Merge pull request #360 from SupraSensum/increase_self_check_clarity
+      Merge pull request #367 from dev-ethanjohn/feature/readme-and-html-updates
+      Merge pull request #385 from bEluga0000/first-contribution
+      Merge pull request #422 from jwsoh07/jw-soh/addition-to-css-selectors
+
+Daniel Murphy (47):
+      Add grid folder for first exercise and initial README.md draft
+      Add desired outcome image to folder and link in README.md
+      Add initial index.html
+      Add solution.html to solution folder
+      Add initial style.css
+      Add solution.css to solution folder
+      Fix solution.html href to point to solution.css
+      Add hints and self checks to README.md
+      Add second exercise with initial README.md
+      Add desired outcome images to folder with links in README.md
+      Add initial index.html
+      Add solution.html in solution folder
+      Add initial style.css
+      Add solution.css to solution folder
+      Update README.md and add self checks
+      Add initial README.md to grid exercise 3 folder
+      Add desired outcome image to folder with link in README
+      Add stretched image with link to README along with full README notes
+      Add initial index.html
+      Add HTML solution
+      Add initial CSS
+      Add solution.css
+      Change solution back to pixels and fix gap
+      Merge branch 'main' of https://github.com/TheOdinProject/css-exercises into feature/grid-exercise-2
+      Update CSS to match first exercise simplified version
+      Merge branch 'main' of https://github.com/TheOdinProject/css-exercises into feature/grid-exercise-3
+      Update exercise 3 CSS
+      Resize images
+      Reduce image size again
+      Reduce image more
+      Simplify solution
+      Update README hints
+      Merge pull request #142 from jernestmyers/fix/edit-readme
+      Merge pull request #144 from satikaj/flex-remove-semicolon
+      Change hint wording for adding CSS declaration blocks
+      Merge pull request #183 from NateTewolde/patch-1
+      Update grid/03-grid-layout-3/README.md
+      Merge pull request #175 from dm-murphy/fix/03-grid-hint-wording
+      Merge pull request #194 from msespos/replace-grid-03-desired-outcome
+      Merge pull request #191 from maznevskia/flex_excercise_3_extra_space
+      Merge pull request #187 from mengxihe/patch-2
+      Merge pull request #202 from Amandasilvbr/alt-text
+      Merge pull request #205 from Amandasilvbr/update-for-accessibility
+      Merge pull request #207 from sai-nayunipati/add_missing_punctuation
+      Merge pull request #209 from JonathanRMartinezHernandez/patch-1
+      Update solution comments
+      Merge pull request #211 from dm-murphy/fix-comments-06-cascade
+
+Daniel Tinsley (1):
+      Update README.md
+
+Dmitry Tolmatov (1):
+      05-descendant-combinator remove child combinator (#561)
+
+Doug Carter (1):
+      fix grammar in pop-up instructions
+
+DragunovVelimirovic (1):
+      Pruning code by combining selectors
+
+Dylan (1):
+      Merge pull request #339 from Asartea/chore/update-contributing-links
+
+Eric (7):
+      Add outcome image
+      Add outcome image
+      Add outcome image
+      Add outcome image
+      Add outcome image
+      Add outcome image
+      Merge pull request #80 from Starosti/fix
+
+Eric Olkowski (89):
+      Create PULL_REQUEST_TEMPLATE.md
+      Create CONTRIBUTING.md
+      Update PULL_REQUEST_TEMPLATE.md
+      Merge pull request #113 from scheals/feature/additional-hint-in-06-flex
+      Update CONTRIBUTING.md
+      Update PULL_REQUEST_TEMPLATE.md
+      Update link text
+      Update PULL_REQUEST_TEMPLATE.md
+      Update CONTRIBUTING.md
+      Update CONTRIBUTING.md
+      Create bug_report.md
+      Create feature_request.md
+      Update bug_report.md
+      Update CONTRIBUTING.md
+      Update CONTRIBUTING.md
+      Update CONTRIBUTING.md
+      Clarify which checkboxes are required
+      Update feature_request.md
+      Fix multiple default labels
+      Update bug_report.md
+      Merge pull request #118 from scheals/feature/additional-hint-in-07-flex
+      Update PULL_REQUEST_TEMPLATE.md
+      Update CONTRIBUTING.md
+      Update feature_request.md
+      Update bug_report.md
+      Merge pull request #119 from scheals/fix/solution-in-04-flex-information
+      Add clarification for suggestions on Discord
+      Make instructions less repo specific
+      Add repo specific links
+      Add verbiage explaining curriculum structure
+      Merge branch 'TheOdinProject:main' into thatblindgeye-patch-2
+      Update link to curriculum structure
+      Update CONTRIBUTING.md
+      Mention link in lessons for improving on GitHub
+      Merge pull request #128 from LPRegen/grid-exercises
+      Add link to GH creating issues doc
+      Update CONTRIBUTING.md
+      Update bug_report.md
+      Update feature_request.md
+      Update PULL_REQUEST_TEMPLATE.md
+      Merge branch 'TheOdinProject:main' into thatblindgeye-patch-2
+      Merge pull request #129 from yujioshiro/grid-layout
+      Merge pull request #117 from thatblindgeye/thatblindgeye-patch-2
+      Add link to lesson preview tool
+      Remove instruction specific to css exercise repo
+      Merge pull request #110 from thatblindgeye/css-foundations
+      Update bug_report.md
+      Update feature_request.md
+      Update bug_report.md
+      Update PULL_REQUEST_TEMPLATE.md
+      Update README.md
+      Update PULL_REQUEST_TEMPLATE.md
+      Update bug_report.md
+      Update feature_request.md
+      Update README.md
+      Update PULL_REQUEST_TEMPLATE.md
+      Delete CONTRIBUTING.md
+      Update README.md
+      Update README.md
+      Update PULL_REQUEST_TEMPLATE.md
+      Update bug_report.md
+      Update feature_request.md
+      Merge pull request #145 from harimm/gitignore
+      Merge pull request #125 from ZebraMilk/main
+      Merge pull request #152 from scheals/patch-1
+      Merge pull request #159 from Micosaur/mico-patch-1
+      Merge pull request #161 from Mmackz/patch-1
+      Merge pull request #160 from Micosaur/mico-flex-patch-1
+      Merge pull request #162 from jamhog/rename_folders
+      Merge pull request #166 from AngryGolfer/main
+      Merge pull request #163 from DragunovVelimirovic/patch-2
+      Merge pull request #173 from acb123web/acb-1
+      Merge pull request #190 from Zekumoru/fix_exercise_solution
+      Merge pull request #257 from Asartea/patch-1
+      Merge pull request #241 from BiscuitCandy/main
+      Merge pull request #274 from Torelli/patch-2
+      Merge pull request #352 from KISHANsingh0001/main
+      Merge pull request #463 from MaoShizhong/chore/improve-readme-wording-on-provided-solution
+      Merge pull request #452 from javicavi/patch-1
+      Merge pull request #419 from devinjordan/foundations_css_methods_typos
+      Merge pull request #460 from kesava-karri/match_font_with_image
+      Update foundations/03-grouping-selectors/README.md
+      Merge pull request #355 from Suvansarkar/main
+      Merge pull request #480 from jasonHYLam/remove_note
+      Merge pull request #481 from khhuang7/flex_emoji_disclaimer
+      Merge pull request #483 from jasonguf/fix_images_in_index_page
+      Merge pull request #495 from fabulousgk/fabulousgk/issue492
+      Merge pull request #498 from ojuliocode/issue453
+      Merge pull request #493 from fabulousgk/fabulousgk/issue465
+
+Evergard (1):
+      docs: Add a punctation mark on foundations/06/solution.css
+
+Fran Mesa (1):
+      01-cascade-fix: Clarify multiple solutions in README (#610)
+
+Giovanni Torelli (2):
+      Fix exercise description
+      Update flex/03-flex-header-2/README.md
+
+Hari Mohan (1):
+      Add gitignore to ignore MacOS autogenerated .DS_Store files
+
+Ishmam Chowdhury (1):
+      fixed some typos and minor grammatical changes
+
+Jack Lingle (2):
+      update solution files to show changes in divs
+      tweak comment in solution.css
+
+James (5):
+      Changing the order of solution css file
+      Merge pull request #18 from TheOdinProject/solution-order-foundations-cdd-methods
+      Merge pull request #16 from jbai97/patch-1
+      Clarifying how to get this repo
+      Merge pull request #23 from TheOdinProject/clarify-instructions
+
+James Hogan (1):
+      Rename folders to match other lessons
+
+Jemuel Repoylo (1):
+      correct typo in image name to fix broken link in README.md
+
+Jeremy Myers (2):
+      Amend Self Check
+      Remove unnecessary line from Self Check
+
+Jonathan R Martinez-Hernandez (2):
+      Added missing weight from solution.css
+      Update foundations/06-cascade-fix/style.css
+
+Josh Smith (3):
+      Change style of PR note
+      Update other reference to PRing solutions
+      Merge pull request #540 from JoshDevHub/update_PR_note_style
+
+Júlio César (1):
+      fix: links not leading to desired url
+
+Kat (2):
+      Add disclaimer that emoji formatting is not relevant in Desired Outcome
+      Edit disclaimer to be more general
+
+Keshav K (2):
+      match the solution font with the desired image
+      02-flex-header: Added a note, letting users know that matching the font isn't desired
+
+Kevin (1):
+      Merge pull request #470 from Evergard/01
+
+Kevin Mulhern (4):
+      Merge pull request #224 from dougc85/fix_animation_grammar
+      Merge pull request #213 from richa130/my-contribution
+      Create LICENSE
+      Merge pull request #302 from TheOdinProject/KevinMulhern-patch-1
+
+Long Mai (1):
+      03-grouping-selectors rephrase README paragraph (#505)
+
+MONK (1):
+      Responsive Holy Grail: Clarify self check points (#609)
+
+Manon (3):
+      edit syntax
+      edit same styling issues in solution file
+      Merge pull request #348 from ManonLef/main
+
+Manuel (1):
+      Modify Self Check item on README.md
+
+MaoShizhong (2):
+      Improve wording in README regarding TOP provided solution
+      Update wording and fix layout style guide issues
+
+Marvin Gay (4):
+      Merge pull request #70 from StayinHazey/fix-css-typo
+      Merge pull request #81 from rishvantsingh/release
+      Revert "did the 06-cascade-fix"
+      Merge pull request #84 from TheOdinProject/revert-81-release
+
+Mengxi He (1):
+      the grid-template-row command seems unnecessary
+
+MfnBacon (1):
+      Fix to index.html
+
+Michael Frank (2):
+      Merge pull request #102 from detinsley1s/patch-1
+      Merge pull request #281 from dotarjun/main
+
+Micosaur (5):
+      Add other possible solutions
+      Use academic-like syntax
+      Fix all broken links
+      Fix all broken links
+      Merge branch 'TheOdinProject:main' into mico-flex-patch-1
+
+Mike Esposito (7):
+      Fix punctuation and grammar in css-exercises README
+      Fix punctuation and grammar in Foundations READMEs
+      Edit punctuation fix in Foundations README
+      Fix punctuation an

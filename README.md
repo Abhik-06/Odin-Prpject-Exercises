@@ -1,0 +1,1 @@
+# This repository contains all the practice work I have done for the odin project course
